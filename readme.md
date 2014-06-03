@@ -8,5 +8,5 @@ Keep two hands in the view of the Leap. The left hand controls the amplitude (mo
 
 Dependencies
 -----
-jsyn - Softsynth library (http://www.softsynth.com/jsyn/developers/download.php)
-Leap Motion SDK (https://developer.leapmotion.com/)
+ - jsyn - Softsynth library (http://www.softsynth.com/jsyn/developers/download.php)
+ - Leap Motion SDK (https://developer.leapmotion.com/)
